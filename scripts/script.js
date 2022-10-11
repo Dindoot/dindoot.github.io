@@ -12,7 +12,7 @@ new Vue({
         {
           name: "POP!",
           artist: "NAYEON",
-          cover: "https://raw.githubusercontent.com/Dindoot/dindoot.github.io/main/img/imnayeon.jpg",
+          cover: "img/imnayeon.jpg",
           source: "mp3/music1.ogg",
           url: "https://www.youtube.com/watch?v=f6YDKF0LVWw",
           favorited: true
@@ -20,72 +20,72 @@ new Vue({
         {
           name: "At That Moment",
           artist: "WSG WANNBE (GAYA-G)",
-          cover: "https://raw.githubusercontent.com/Dindoot/dindoot.github.io/main/img/wsg.jpg",
-          source: "https://raw.githubusercontent.com/Dindoot/dindoot.github.io/main/mp3/music2.ogg",
+          cover: "img/wsg.jpg",
+          source: "mp3/music2.ogg",
           url: "https://www.youtube.com/watch?v=kZvzjX35KxY",
           favorited: true
         },
         {
           name: "To My Youth",
           artist: "BOL4",
-          cover: "https://raw.githubusercontent.com/Dindoot/dindoot.github.io/main/img/reddiary.jpg",
-          source: "https://raw.githubusercontent.com/Dindoot/dindoot.github.io/main/mp3/music3.ogg",
+          cover: "img/reddiary.jpg",
+          source: "mp3/music3.ogg",
           url: "https://www.youtube.com/watch?v=GY_StGcBSYw",
           favorited: false
         },
         {
           name: "Rough",
           artist: "GFRIEND",
-          cover: "https://raw.githubusercontent.com/Dindoot/dindoot.github.io/main/img/snowflake.jpg",
-          source: "https://raw.githubusercontent.com/Dindoot/dindoot.github.io/main/mp3/music4.ogg",
+          cover: "img/snowflake.jpg",
+          source: "mp3/music4.ogg",
           url: "https://www.youtube.com/watch?v=r_6q_-d-7Sk",
           favorited: true
         },
         {
           name: "YOU AND I",
           artist: "Dreamcatcher",
-          cover: "https://raw.githubusercontent.com/Dindoot/dindoot.github.io/main/img/nightmare.jpg",
-          source: "https://raw.githubusercontent.com/Dindoot/dindoot.github.io/main/mp3/music5.ogg",
+          cover: "img/nightmare.jpg",
+          source: "mp3/music5.ogg",
           url: "https://www.youtube.com/watch?v=LFxjwBfFIiY",
           favorited: false
         },
         {
           name: "FEARLESS",
           artist: "LE SSERAFIM",
-          cover: "https://raw.githubusercontent.com/Dindoot/dindoot.github.io/main/img/fearless.jpg",
-          source: "https://raw.githubusercontent.com/Dindoot/dindoot.github.io/main/mp3/music6.ogg",
+          cover: "img/fearless.jpg",
+          source: "mp3/music6.ogg",
           url: "https://www.youtube.com/watch?v=4vbDFu0PUew",
           favorited: false
         },
         {
           name: "Heart Burn",
           artist: "SUNMI",
-          cover: "https://raw.githubusercontent.com/Dindoot/dindoot.github.io/main/img/heartburn.jpg",
-          source: "https://raw.githubusercontent.com/Dindoot/dindoot.github.io/main/mp3/music7.ogg",
+          cover: "img/heartburn.jpg",
+          source: "mp3/music7.ogg",
           url: "https://www.youtube.com/watch?v=wVPICMGhFjo",
           favorited: true
         },
         {
           name: "LAW (Prod. by Czaer)",
           artist: "YOON MI RAE & BIBI",
-          cover: "https://raw.githubusercontent.com/Dindoot/dindoot.github.io/main/img/smf.jpg",
-          source: "https://raw.githubusercontent.com/Dindoot/dindoot.github.io/main/mp3/music8.ogg",
+          cover: "img/smf.jpg",
+          source: "mp3/music8.ogg",
           url: "https://www.youtube.com/watch?v=gXlsYv90pag",
           favorited: false
         },
         {
           name: "LOVEADE (LOVEADE)",
           artist: "VIVIZ",
-          cover: "https://raw.githubusercontent.com/Dindoot/dindoot.github.io/main/img/summervibe.jpg",
-          source: "https://raw.githubusercontent.com/Dindoot/dindoot.github.io/main/mp3/music9.ogg",
+          cover: "img/summervibe.jpg",
+          source: "mp3/music9.ogg",
           url: "https://www.youtube.com/watch?v=7oGRnWulYCI",
           favorited: false
         },
         {
           name: "Shut Down",
           artist: "BLACKPINK",
-          cover: "https://raw.githubusercontent.com/Dindoot/dindoot.github.io/main/img/bornpink.jpg",
-          source: "https://raw.githubusercontent.com/Dindoot/dindoot.github.io/main/mp3/music10.ogg",
+          cover: "img/bornpink.jpg",
+          source: "mp3/music10.ogg",
           url: "https://www.youtube.com/watch?v=POe9SOEKotk",
           favorited: false
         }
