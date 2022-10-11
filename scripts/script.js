@@ -13,7 +13,7 @@ new Vue({
           name: "POP!",
           artist: "NAYEON",
           cover: "https://raw.githubusercontent.com/Dindoot/dindoot.github.io/main/img/imnayeon.jpg",
-          source: "https://raw.githubusercontent.com/Dindoot/dindoot.github.io/main/mp3/music1.ogg",
+          source: "mp3/music1.ogg",
           url: "https://www.youtube.com/watch?v=f6YDKF0LVWw",
           favorited: true
         },
